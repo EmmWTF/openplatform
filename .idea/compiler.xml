@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authen-center" />
+        <module name="openapi-cache" />
+        <module name="openapi-configserver" />
+        <module name="openapi-eureka" />
+        <module name="openapi-gateway" />
+        <module name="openapi-monitor" />
+        <module name="openapi-search" />
+        <module name="openapi-webmaster" />
+        <module name="testservice" />
+        <module name="testservice2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authen-center" target="1.8" />
+      <module name="openapi-cache" target="1.8" />
+      <module name="openapi-configserver" target="1.8" />
+      <module name="openapi-eureka" target="1.8" />
+      <module name="openapi-gateway" target="1.8" />
+      <module name="openapi-monitor" target="1.8" />
+      <module name="openapi-search" target="1.8" />
+      <module name="openapi-webmaster" target="1.8" />
+      <module name="openplatform" target="1.8" />
+      <module name="testservice" target="1.8" />
+      <module name="testservice2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

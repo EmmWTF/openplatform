@@ -1,0 +1,10 @@
+server:
+  port: 14000
+#zuul:
+#  routes:
+#    dasdasdasdasd: /dasdas/*
+#    dfsafsadfasdfasdf: /fggsdfg/*
+zuul:
+  routes:
+    testservice: '/*' #我们最终需要一个服务来帮我们触发过滤器,所以写了一个没有任何用的测试服务来拦截所有的地址
+  ignored-services: '*' #拦截所有的服务.不做处理

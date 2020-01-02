@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authen-center/authen-center.iml" filepath="$PROJECT_DIR$/authen-center/authen-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openapi-cache/openapi-cache.iml" filepath="$PROJECT_DIR$/openapi-cache/openapi-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openapi-configserver/openapi-configserver.iml" filepath="$PROJECT_DIR$/openapi-configserver/openapi-configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openapi-eureka/openapi-eureka.iml" filepath="$PROJECT_DIR$/openapi-eureka/openapi-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openapi-gateway/openapi-gateway.iml" filepath="$PROJECT_DIR$/openapi-gateway/openapi-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openapi-monitor/openapi-monitor.iml" filepath="$PROJECT_DIR$/openapi-monitor/openapi-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openapi-search/openapi-search.iml" filepath="$PROJECT_DIR$/openapi-search/openapi-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openapi-webmaster/openapi-webmaster.iml" filepath="$PROJECT_DIR$/openapi-webmaster/openapi-webmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openplatform.iml" filepath="$PROJECT_DIR$/openplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testservice/testservice.iml" filepath="$PROJECT_DIR$/testservice/testservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testservice2/testservice2.iml" filepath="$PROJECT_DIR$/testservice2/testservice2.iml" />
+    </modules>
+  </component>
+</project>

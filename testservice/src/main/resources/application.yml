@@ -1,0 +1,10 @@
+server:
+  port: 15000
+spring:
+  application:
+    name: testservice
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://tingjie:1803@localhost:10000/eureka

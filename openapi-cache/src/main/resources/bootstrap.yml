@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: openapi-cache
+#  profiles:
+#    active: dev  #等价于下面的写法
+  cloud:
+    config:
+      profile: dev
+      discovery:
+        enabled: true
+        service-id: openapi-configserver #配置要找的config server 在eureka中的名字
+      label: master
+eureka:
+  client:
+    service-url:
+      defaultZone: http://tingjie:1803@localhost:10000/eureka

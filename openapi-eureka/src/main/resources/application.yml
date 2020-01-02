@@ -1,0 +1,17 @@
+server:
+  port: 10000
+spring:
+  application:
+    name: openapi-eureka
+  security:
+    user:
+      name: tingjie
+      password: 1803
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10000/eureka
+    fetch-registry: false
+    register-with-eureka: false
+  instance:
+    prefer-ip-address: true

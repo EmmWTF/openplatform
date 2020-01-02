@@ -1,0 +1,7 @@
+server:
+  port: 20000
+jwtconfig:
+  expireTime: 3600
+  secret: qishimeiyoumima
+  jwtHeadername: laowang
+  loginUrl: '/login'

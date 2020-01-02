@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: openapi-webmaster
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: openapi-configserver
+      label: master
+      profile: test
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://tingjie:1803@localhost:10000/eureka
+#配置config server 在eureka中的名字

@@ -1,0 +1,15 @@
+server:
+  port: 12000
+spring:
+  application:
+    name: openapi-configserver
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/chenjunbo/{application}
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://tingjie:1803@localhost:10000/eureka

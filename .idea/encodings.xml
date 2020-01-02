@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authen-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openapi-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openapi-configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openapi-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openapi-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openapi-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openapi-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openapi-webmaster" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testservice2" charset="UTF-8" />
+  </component>
+</project>
